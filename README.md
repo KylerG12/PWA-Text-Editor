@@ -4,7 +4,7 @@
 ## Description
 https://github.com/KylerG12/PWA-Text-Editor
 
-https://google-books-search-and-save.onrender.com/
+https://pwa-text-editor-chi2.onrender.com/
 
 This app allows you access to a simple to use text editor that can be downloaded to your desktop and used offline
 
